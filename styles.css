@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+  margin: 2rem;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+header {
+  background-color: #222;
+  color: white;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+section {
+  margin-top: 2rem;
+  background-color: white;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+a {
+  color: #007acc;
+}
